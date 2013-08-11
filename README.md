@@ -1,7 +1,7 @@
 Kirby-Sitemap
 =============
 
-with this template file you can easily include and exclude pages from your sitemap.
+With this template file you can easily include and exclude pages from your sitemap.
 
 ###Step 1: Upload the template
 
