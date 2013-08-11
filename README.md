@@ -15,8 +15,8 @@ Createfolder sitemap  in your content folder.
 
 Add the following line to include the page in the sitemap
 
-  sitemap:1
+    sitemap:1
   
 Add the following line to exclude the page from the sitemap
 
-  sitemap:0
+    sitemap:0
