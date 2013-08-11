@@ -1,7 +1,7 @@
 Kirby-Sitemap
 =============
 
-Kirby Sitemap
+with this template file you can easily include and exclude pages from your sitemap.
 
 ###Step 1: Upload the template
 
@@ -13,10 +13,10 @@ Createfolder sitemap  in your content folder.
 
 ###Step 3: Modify your content files
 
-Add the following line to include the page in the sitemap
+To **include** the page in your sitemap add the following line to your content file:
 
     sitemap:1
   
-Add the following line to exclude the page from the sitemap
+To **exclude** the page in your sitemap add the following line to your content file:
 
     sitemap:0
