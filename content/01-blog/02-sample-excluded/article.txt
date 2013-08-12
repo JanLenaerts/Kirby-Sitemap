@@ -1,0 +1,14 @@
+title: Sample article.
+----
+Description: This article is excluded from the siteamp.
+----
+Published: 2013-08-12
+----
+Sitemap: 0
+----
+Text:
+This article is excluded from the sitemap.
+
+
+
+

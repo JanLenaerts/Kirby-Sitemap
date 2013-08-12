@@ -1,0 +1,11 @@
+title: Sample article.
+----
+Description: This article is included in the sitemap.
+----
+Published: 2013-08-12
+----
+Sitemap: 1
+----
+Text:
+This article is included in the sitemap.
+
