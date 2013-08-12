@@ -20,8 +20,7 @@ To **include** the page in your sitemap add the following line to your content f
 To **exclude** the page in your sitemap add the following line to your content file:
 
     sitemap:0
-    
-    
+        
 ### Remark
 
 An array can found in xmlsitemap.php to which you can add pages to ignore.
@@ -30,6 +29,6 @@ An array can found in xmlsitemap.php to which you can add pages to ignore.
     
 If you want to hide page1,page2 and page3 from the sitemap, just add them.
 
-    $ignore = array('sitemap', 'error','page1','page2','page2');
+    $ignore = array('sitemap', 'error','page1','page2','page3');
 
-** This does only work for parent pages, that's why I have modified the template to work with a sitemap field**
+**This does only work for parent pages, that's why I have modified the template to work with a sitemap field**
